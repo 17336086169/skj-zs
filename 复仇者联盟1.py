@@ -25,7 +25,7 @@ def run(url):
             print(r.status_code)
             # l = l + r.content
             # 打印访问的状态码是否为200
-            with open("D:\\film\\复仇者联盟1\\复仇者联盟1\\{}.mp4".format(urls.index(url)), 'wb') as f:  # 以二进制写的方式将r的二进制内容写入path
+            with open("{}.mp4".format(urls.index(url)), 'wb') as f:  # 以二进制写的方式将r的二进制内容写入path
                 f.write(r.content)
                 f.close()
                 # print('第', urls.index(url), "个文件保存成功！")
