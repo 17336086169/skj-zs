@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5c05743a-f947-4b12-bac6-97062f7bf6d8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1e2Vpsaa0kZNWGns9G3SFni56qA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5c05743a-f947-4b12-bac6-97062f7bf6d8" name="Default Changelist" comment="" />
+      <created>1593519860223</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593519860223</updated>
+      <workItem from="1593519861610" duration="358000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="737" y="323" key="#Notifications" timestamp="1593520122181">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="737" y="323" key="#Notifications/0.0.1707.920@0.0.1707.920" timestamp="1593520122181" />
+    <state x="634" y="231" key="FileChooserDialogImpl" timestamp="1593520185854">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="634" y="231" key="FileChooserDialogImpl/0.0.1707.920@0.0.1707.920" timestamp="1593520185854" />
+    <state x="321" y="170" width="996" height="707" key="SettingsEditor" timestamp="1593520218703">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="321" y="170" width="996" height="707" key="SettingsEditor/0.0.1707.920@0.0.1707.920" timestamp="1593520218703" />
+  </component>
+</project>
