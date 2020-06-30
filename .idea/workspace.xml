@@ -7,15 +7,26 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1e2Vpsaa0kZNWGns9G3SFni56qA" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -32,7 +43,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1593519860223</updated>
-      <workItem from="1593519861610" duration="358000" />
+      <workItem from="1593519861610" duration="994000" />
     </task>
     <servers />
   </component>
@@ -44,13 +55,21 @@
       <screen x="0" y="0" width="1707" height="920" />
     </state>
     <state x="737" y="323" key="#Notifications/0.0.1707.920@0.0.1707.920" timestamp="1593520122181" />
-    <state x="634" y="231" key="FileChooserDialogImpl" timestamp="1593520185854">
+    <state x="634" y="231" key="FileChooserDialogImpl" timestamp="1593520748144">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
-    <state x="634" y="231" key="FileChooserDialogImpl/0.0.1707.920@0.0.1707.920" timestamp="1593520185854" />
-    <state x="321" y="170" width="996" height="707" key="SettingsEditor" timestamp="1593520218703">
+    <state x="634" y="231" key="FileChooserDialogImpl/0.0.1707.920@0.0.1707.920" timestamp="1593520748144" />
+    <state x="261" y="183" width="996" height="707" key="SettingsEditor" timestamp="1593520780098">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
-    <state x="321" y="170" width="996" height="707" key="SettingsEditor/0.0.1707.920@0.0.1707.920" timestamp="1593520218703" />
+    <state x="261" y="183" width="996" height="707" key="SettingsEditor/0.0.1707.920@0.0.1707.920" timestamp="1593520780098" />
+    <state x="446" y="194" key="Vcs.Push.Dialog.v2" timestamp="1593520275118">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="446" y="194" key="Vcs.Push.Dialog.v2/0.0.1707.920@0.0.1707.920" timestamp="1593520275118" />
+    <state x="651" y="374" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1593520529895">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="651" y="374" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1707.920@0.0.1707.920" timestamp="1593520529895" />
   </component>
 </project>
